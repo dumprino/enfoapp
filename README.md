@@ -5,3 +5,9 @@ CRIANDO UM NOVO PROJETO NO LARAVEL 11::
 
 [ COMANDO ] composer create-project laravel/laravel EnfoApp
 ===================================================================================
+
+INSTALANDO O BREEZE VIA COMANDO ::
+
+[ COMANDO ] composer require laravel/breeze --dev
+[ OBS ] Este comando instala o BREEZE dentro do seu projeto.
+===================================================================================
